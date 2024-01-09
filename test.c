@@ -8,6 +8,6 @@ int main()
     int a=0;
     scanf("%d",&a);
     printf("a=%d",a);
-
+    printf("123");
     return 0;
 }
