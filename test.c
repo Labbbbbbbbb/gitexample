@@ -9,5 +9,6 @@ int main()
     scanf("%d",&a);
     printf("a=%d",a);
     printf("123");
+    printf("again");
     return 0;
 }
